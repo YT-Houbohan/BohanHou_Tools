@@ -26,6 +26,7 @@ os.system("figlet Elsa-zlt DDos Attack")
 print()
 print("Author   : BohanHou")
 print("未经授权对目标进行 DDoS 攻击是违法且不道德的行为，可能会导致严重的法律后果。此代码仅用于学习和研究网络编程及安全防御相关知识，请勿用于非法活动。")
+print("Unauthorized DDoS attacks on targets are illegal and unethical and can lead to serious legal consequences. This code is only for learning and researching network programming and security related knowledge, and should not be used for illegal activities.")
 print()
 
 ip = input("IP Target : ")
